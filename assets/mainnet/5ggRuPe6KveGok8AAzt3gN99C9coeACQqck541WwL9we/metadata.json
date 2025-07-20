@@ -1,0 +1,15 @@
+{
+  "name": "GOATKING",
+  "symbol": "GOAT",
+  "description": "GOATKING is the meme ruler of Solana. 0 Tax. LP Locked. Community Owned.",
+  "image": "https://raw.githubusercontent.com/masterbruh1993/goatking-token-metadata/main/assets/mainnet/5ggRuPe6KveGok8AAzt3gN99C9coeACQqck541WwL9we/logo.png",
+  "extensions": {
+    "website": "https://goatkingtoken.com",
+    "twitter": "https://x.com/GoatKingToken",
+    "telegram": "https://t.me/GoatKingOfficial"
+  },
+  "properties": {
+    "category": "image",
+    "creators": []
+  }
+}
